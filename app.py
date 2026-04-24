@@ -7,7 +7,7 @@ app = Flask(__name__)
 chat_history = []
 
 # 🔴 your API key
-API_KEY = "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"
+API_KEY = "sk-..."
 
 @app.route("/")
 def home():
