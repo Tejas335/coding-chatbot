@@ -3,7 +3,7 @@
 https://coding-chatbot-1.onrender.com
 
 ## 📸 Preview
-![Chatbot UI](Screenshot 2026-04-25 113656.png)
+![Chatbot UI](preview.png)
 
 ## Features
 - AI coding assistant
