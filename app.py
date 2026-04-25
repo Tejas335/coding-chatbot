@@ -1,13 +1,12 @@
 from flask import Flask, render_template, request, jsonify
 import requests
+import os
 
 app = Flask(__name__)
 
-# store conversation
 chat_history = []
 
-# 🔴 your API key
-API_KEY = "sk-..."
+API_KEY = os.getenv("API_KEY")  
 
 @app.route("/")
 def home():
