@@ -2,6 +2,9 @@
 ## 🌐 Live Demo
 https://coding-chatbot-1.onrender.com
 
+## 📸 Preview
+![Chatbot UI](your-image-name.png)
+
 ## Features
 - AI coding assistant
 - Debug mode (fix code)
